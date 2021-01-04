@@ -1,0 +1,1165 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.911342,
+                    45.88536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Vipavska cesta 11b, 5270 Ajdov\u0161\u010dina",
+                "email": "ue.ajdovscina@gov.si",
+                "email_href": "mailto:ue.ajdovscina@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ajdovscina/",
+                "map_link": "http://www.google.com/maps/place/45.885360,13.911342/@45.885360,13.911342,16z",
+                "name": "Upravna enota Ajdov\u0161\u010dina",
+                "phone_number": "05 364 32 00",
+                "phone_number_href": "tel:+38653643200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.592796,
+                    45.904364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta prvih borcev 24a, 8250 Bre\u017eice",
+                "email": "ue.brezice@gov.si",
+                "email_href": "mailto:ue.brezice@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/brezice/",
+                "map_link": "http://www.google.com/maps/place/45.904364,15.592796/@45.904364,15.592796,16z",
+                "name": "Upravna enota Bre\u017eice",
+                "phone_number": "07 499 15 50",
+                "phone_number_href": "tel:+38674991550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.260953,
+                    46.229455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ljubljanska cesta 1, 3000 Celje, ",
+                "email": "ue.celje@gov.si",
+                "email_href": "mailto:ue.celje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/celje/",
+                "map_link": "http://www.google.com/maps/place/46.229455,15.260953/@46.229455,15.260953,16z",
+                "name": "Upravna enota Celje",
+                "phone_number": "03 426 53 00",
+                "phone_number_href": "tel:+38634265300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.366621,
+                    45.793262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta 4. maja 24, 1380 Cerknica",
+                "email": "ue.cerknica@gov.si",
+                "email_href": "mailto:ue.cerknica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/cerknica/",
+                "map_link": "http://www.google.com/maps/place/45.793262,14.366621/@45.793262,14.366621,16z",
+                "name": "Upravna enota Cerknica",
+                "phone_number": "01 707 13 00",
+                "phone_number_href": "tel:+38617071300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.19591,
+                    45.57934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Zadru\u017ena cesta 16, 8340 \u010crnomelj",
+                "email": "ue.crnomelj@gov.si",
+                "email_href": "mailto:ue.crnomelj@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/crnomelj/",
+                "map_link": "http://www.google.com/maps/place/45.579340,15.195910/@45.579340,15.195910,16z",
+                "name": "Upravna enota \u010crnomelj",
+                "phone_number": "07 336 10 00",
+                "phone_number_href": "tel:+38673361000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.592892,
+                    46.137713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ljubljanska cesta 69, 1230 Dom\u017eale",
+                "email": "ue.domzale@gov.si",
+                "email_href": "mailto:ue.domzale@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/domzale/",
+                "map_link": "http://www.google.com/maps/place/46.137713,14.592892/@46.137713,14.592892,16z",
+                "name": "Upravna enota Dom\u017eale",
+                "phone_number": "01 722 01 00",
+                "phone_number_href": "tel:+38617220100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.024901,
+                    46.58657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Me\u017ea 10, 2370 Dravograd",
+                "email": "ue.dravograd@gov.si",
+                "email_href": "mailto:ue.dravograd@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/dravograd/",
+                "map_link": "http://www.google.com/maps/place/46.586570,15.024901/@46.586570,15.024901,16z",
+                "name": "Upravna enota Dravograd",
+                "phone_number": "02 872 07 10",
+                "phone_number_href": "tel:+38628720710"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.990338,
+                    46.677513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Partizanska cesta 13, 9250 Gornja Radgona",
+                "email": "ue.goradgona@gov.si",
+                "email_href": "mailto:ue.goradgona@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/gornja-radgona/",
+                "map_link": "http://www.google.com/maps/place/46.677513,15.990338/@46.677513,15.990338,16z",
+                "name": "Upravna enota Gornja Radgona",
+                "phone_number": "02 564 38 88",
+                "phone_number_href": "tel:+38625643888"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.653329,
+                    45.957125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Taborska cesta 1, 1290 Grosuplje, ",
+                "email": "ue.grosuplje@gov.si",
+                "email_href": "mailto:ue.grosuplje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/grosuplje/",
+                "map_link": "http://www.google.com/maps/place/45.957125,14.653329/@45.957125,14.653329,16z",
+                "name": "Upravna enota Grosuplje",
+                "phone_number": "01 781 09 00",
+                "phone_number_href": "tel:+38617810900"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.081589,
+                    46.14593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Pot Vitka Pavli\u010da 5, 1430 Hrastnik, ",
+                "email": "ue.hrastnik@gov.si",
+                "email_href": "mailto:ue.hrastnik@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/hrastnik/",
+                "map_link": "http://www.google.com/maps/place/46.145930,15.081589/@46.145930,15.081589,16z",
+                "name": "Upravna enota Hrastnik",
+                "phone_number": "03 564 26 00",
+                "phone_number_href": "tel:+38635642600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.020958,
+                    46.001262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "\u0160tudentovska ulica 2, 5280 Idrija, ",
+                "email": "ue.idrija@gov.si",
+                "email_href": "mailto:ue.idrija@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/idrija/",
+                "map_link": "http://www.google.com/maps/place/46.001262,14.020958/@46.001262,14.020958,16z",
+                "name": "Upravna enota Idrija",
+                "phone_number": "05 373 43 00",
+                "phone_number_href": "tel:+38653734300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.243319,
+                    45.567222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Gregor\u010di\u010deva cesta 2, 6250 Ilirska Bistrica, ",
+                "email": "ue.ilirskabistrica@gov.si",
+                "email_href": "mailto:ue.ilirskabistrica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ilirska-bistrica/",
+                "map_link": "http://www.google.com/maps/place/45.567222,14.243319/@45.567222,14.243319,16z",
+                "name": "Upravna enota Ilirska Bistrica",
+                "phone_number": "05 711 22 00",
+                "phone_number_href": "tel:+38657112200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.666882,
+                    45.529911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta v Pregavor 3a, 6310 Izola, ",
+                "email": "ue.izola@gov.si",
+                "email_href": "mailto:ue.izola@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/izola/",
+                "map_link": "http://www.google.com/maps/place/45.529911,13.666882/@45.529911,13.666882,16z",
+                "name": "Upravna enota Izola",
+                "phone_number": "05 660 04 00",
+                "phone_number_href": "tel:+38656600400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.062856,
+                    46.431868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta \u017eelezarjev 6a, 4270 Jesenice, ",
+                "email": "ue.jesenice@gov.si",
+                "email_href": "mailto:ue.jesenice@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/jesenice/",
+                "map_link": "http://www.google.com/maps/place/46.431868,14.062856/@46.431868,14.062856,16z",
+                "name": "Upravna enota Jesenice",
+                "phone_number": "04 585 14 00",
+                "phone_number_href": "tel:+38645851400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.611911,
+                    46.226354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Glavni trg 24, 1240 Kamnik, ",
+                "email": "ue.kamnik@gov.si",
+                "email_href": "mailto:ue.kamnik@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/kamnik/",
+                "map_link": "http://www.google.com/maps/place/46.226354,14.611911/@46.226354,14.611911,16z",
+                "name": "Upravna enota Kamnik",
+                "phone_number": "01 831 81 00",
+                "phone_number_href": "tel:+38618318100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.855712,
+                    45.64291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ljubljanska cesta 26, 1330 Ko\u010devje, ",
+                "email": "ue.kocevje@gov.si",
+                "email_href": "mailto:ue.kocevje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/kocevje/",
+                "map_link": "http://www.google.com/maps/place/45.642910,14.855712/@45.642910,14.855712,16z",
+                "name": "Upravna enota Ko\u010devje",
+                "phone_number": "01 893 83 00",
+                "phone_number_href": "tel:+38618938300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.725978,
+                    45.544458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Piranska cesta 2, 6000 Koper - Capodistria",
+                "email": "ue.koper@gov.si",
+                "email_href": "mailto:ue.koper@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/koper/",
+                "map_link": "http://www.google.com/maps/place/45.544458,13.725978 /@45.544458,13.725978 ,16z",
+                "name": "Upravna enota Koper",
+                "phone_number": "0593 21 000",
+                "phone_number_href": "tel:+38659321000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.355742,
+                    46.243268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Slovenski trg 1, 4000 Kranj, ",
+                "email": "ue.kranj@gov.si",
+                "email_href": "mailto:ue.kranj@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/kranj/",
+                "map_link": "http://www.google.com/maps/place/46.243268,14.355742/@46.243268,14.355742,16z",
+                "name": "Upravna enota Kranj",
+                "phone_number": "04 201 56 00",
+                "phone_number_href": "tel:+38642015600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.484919,
+                    45.966545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta kr\u0161kih \u017ertev 14, 8270 Kr\u0161ko, ",
+                "email": "ue.krsko@gov.si",
+                "email_href": "mailto:ue.krsko@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/krsko/",
+                "map_link": "http://www.google.com/maps/place/45.966545,15.484919/@45.966545,15.484919,16z",
+                "name": "Upravna enota Kr\u0161ko",
+                "phone_number": "07 498 14 02",
+                "phone_number_href": "tel:+38674981402"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.235264,
+                    46.15376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Mestna ulica 2, 3270 La\u0161ko, ",
+                "email": "ue.lasko@gov.si",
+                "email_href": "mailto:ue.lasko@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/lasko/",
+                "map_link": "http://www.google.com/maps/place/46.153760,15.235264/@46.153760,15.235264,16z",
+                "name": "Upravna enota La\u0161ko",
+                "phone_number": "03 733 88 00",
+                "phone_number_href": "tel:+38637338800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.830714,
+                    46.575959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Trg osvoboditve 7, 2230 Lenart v Slovenskih goricah",
+                "email": "ue.lenart@gov.si",
+                "email_href": "mailto:ue.lenart@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/lenart/",
+                "map_link": "http://www.google.com/maps/place/46.575959,15.830714/@46.575959,15.830714,16z",
+                "name": "Upravna enota Lenart",
+                "phone_number": "02 729 15 00",
+                "phone_number_href": "tel:+38627291500"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.455173,
+                    46.561708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Trg ljudske pravice 5, 9220 Lendava",
+                "email": "ue.lendava@gov.si",
+                "email_href": "mailto:ue.lendava@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/lendava/",
+                "map_link": "http://www.google.com/maps/place/46.561708,16.455173/@46.561708,16.455173,16z",
+                "name": "Upravna enota Lendava",
+                "phone_number": "02 577 36 00",
+                "phone_number_href": "tel:+38625773600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.831115,
+                    46.057328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Jerebova ulica 14, 1270 Litija",
+                "email": "ue.litija@gov.si",
+                "email_href": "mailto:ue.litija@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/litija/",
+                "map_link": "http://www.google.com/maps/place/46.057328,14.831115/@46.057328,14.831115,16z",
+                "name": "Upravna enota Litija",
+                "phone_number": "01 896 23 45",
+                "phone_number_href": "tel:+38618962345"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.513893,
+                    46.064567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Linhartova cesta 13, 1000 Ljubljana",
+                "email": "ue.ljubljana@gov.si",
+                "email_href": "mailto:ue.ljubljana@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ljubljana/",
+                "map_link": "http://www.google.com/maps/place/46.064567,14.513893/@46.064567,14.513893,16z",
+                "name": "Upravna enota Ljubljana",
+                "phone_number": "01 306 30 00",
+                "phone_number_href": "tel:+38613063000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.19509,
+                    46.517666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Vrazova ulica 1, 9240 Ljutomer",
+                "email": "ue.ljutomer@gov.si",
+                "email_href": "mailto:ue.ljutomer@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ljutomer/",
+                "map_link": "http://www.google.com/maps/place/46.517666,16.195090/@46.517666,16.195090,16z",
+                "name": "Upravna enota Ljutomer",
+                "phone_number": "02 584 94 11",
+                "phone_number_href": "tel:+38625849411"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.222649,
+                    45.917673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Tr\u017ea\u0161ka cesta 50A, 1370 Logatec",
+                "email": "ue.logatec@gov.si",
+                "email_href": "mailto:ue.logatec@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/logatec/",
+                "map_link": "http://www.google.com/maps/place/45.917673,14.222649/@45.917673,14.222649,16z",
+                "name": "Upravna enota Logatec",
+                "phone_number": "01 759 05 00",
+                "phone_number_href": "tel:+38617590500"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.649765,
+                    46.562546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ul. heroja Staneta 1, 2501 Maribor",
+                "email": "ue.maribor@gov.si",
+                "email_href": "mailto:ue.maribor@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/maribor/",
+                "map_link": "http://www.google.com/maps/place/46.562546,15.649765/@46.562546,15.649765,16z",
+                "name": "Upravna enota Maribor",
+                "phone_number": "02 220 83 50",
+                "phone_number_href": "tel:+38622208350"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.317161,
+                    45.64573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Naselje Borisa Kidri\u010da 14/II, 8330 Metlika",
+                "email": "ue.metlika@gov.si",
+                "email_href": "mailto:ue.metlika@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/metlika/",
+                "map_link": "http://www.google.com/maps/place/45.645730,15.317161/@45.645730,15.317161,16z",
+                "name": "Upravna enota Metlika",
+                "phone_number": "07 363 74 50",
+                "phone_number_href": "tel:+38673637450"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.965734,
+                    46.340609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "\u0160mihelska cesta 2, 3330 Mozirje",
+                "email": "ue.mozirje@gov.si",
+                "email_href": "mailto:ue.mozirje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/mozirje/",
+                "map_link": "http://www.google.com/maps/place/46.340609,14.965734/@46.340609,14.965734,16z",
+                "name": "Upravna enota Mozirje",
+                "phone_number": "03 839 34 00",
+                "phone_number_href": "tel:+38638393400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.163983,
+                    46.662719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Kardo\u0161eva 2, 9000 Murska Sobota",
+                "email": "ue.murskasobota@gov.si",
+                "email_href": "mailto:ue.murskasobota@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/murska-sobota/",
+                "map_link": "http://www.google.com/maps/place/46.662719,16.163983/@46.662719,16.163983,16z",
+                "name": "Upravna enota Murska Sobota",
+                "phone_number": "02 513 11 11",
+                "phone_number_href": "tel:+38625131111"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.648845,
+                    45.957257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Trg Edvarda Kardelja 1, 5000 Nova Gorica",
+                "email": "ue.novagorica@gov.si",
+                "email_href": "mailto:ue.novagorica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/nova-gorica/",
+                "map_link": "http://www.google.com/maps/place/45.957257,13.648845/@45.957257,13.648845,16z",
+                "name": "Upravna enota Nova Gorica",
+                "phone_number": "05 330 61 00",
+                "phone_number_href": "tel:+38653306100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.164761,
+                    45.803935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Defranceschijeva ulica 1, 8000 Novo mesto, ",
+                "email": "ue.novomesto@gov.si",
+                "email_href": "mailto:ue.novomesto@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/novo-mesto/",
+                "map_link": "http://www.google.com/maps/place/45.803935,15.164761/@45.803935,15.164761,16z",
+                "name": "Upravna enota Novo mesto",
+                "phone_number": "07 393 91 02",
+                "phone_number_href": "tel:+38673939102"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.147289,
+                    46.407366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ptujska cesta 6, 2270 Ormo\u017e",
+                "email": "ue.ormoz@gov.si",
+                "email_href": "mailto:ue.ormoz@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ormoz/",
+                "map_link": "http://www.google.com/maps/place/46.407366,16.147289/@46.407366,16.147289,16z",
+                "name": "Upravna enota Ormo\u017e",
+                "phone_number": "02 741 54 00",
+                "phone_number_href": "tel:+38627415400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.677927,
+                    46.60902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Pesnica pri Mariboru 43 a, 2211 Pesnica pri Mariboru",
+                "email": "ue.pesnica@gov.si",
+                "email_href": "mailto:ue.pesnica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/pesnica/",
+                "map_link": "http://www.google.com/maps/place/46.609020,15.677927/@46.609020,15.677927,16z",
+                "name": "Upravna enota Pesnica",
+                "phone_number": "02 654 23 00",
+                "phone_number_href": "tel:+38626542300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.603666,
+                    45.502883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Lucija, Obala 114a, 6320 Portoro\u017e",
+                "email": "ue.piran@gov.si",
+                "email_href": "mailto:ue.piran@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/piran/",
+                "map_link": "http://www.google.com/maps/place/45.502883,13.603666/@45.502883,13.603666,16z",
+                "name": "Upravna enota Piran",
+                "phone_number": "05 671 04 00",
+                "phone_number_href": "tel:+38656710400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.214202,
+                    45.775285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ljubljanska cesta 4, 6230 Postojna, ",
+                "email": "ue.postojna@gov.si",
+                "email_href": "mailto:ue.postojna@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/postojna/",
+                "map_link": "http://www.google.com/maps/place/45.775285,14.214202/@45.775285,14.214202,16z",
+                "name": "Upravna enota Postojna",
+                "phone_number": "05 728 06 00",
+                "phone_number_href": "tel:+38657280600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.871903,
+                    46.42149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Slom\u0161kova ulica 10, 2250 Ptuj, ",
+                "email": "ue.ptuj@gov.si",
+                "email_href": "mailto:ue.ptuj@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ptuj/",
+                "map_link": "http://www.google.com/maps/place/46.421490,15.871903/@46.421490,15.871903,16z",
+                "name": "Upravna enota Ptuj",
+                "phone_number": "02 798 01 00",
+                "phone_number_href": "tel:+38627980100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.224622,
+                    46.614691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Mariborska c. 7, 2360 Radlje ob Dravi",
+                "email": "ue.radlje@gov.si",
+                "email_href": "mailto:ue.radlje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/radlje-ob-dravi/",
+                "map_link": "http://www.google.com/maps/place/46.614691,15.224622/@46.614691,15.224622,16z",
+                "name": "Upravna enota Radlje ob Dravi",
+                "phone_number": "02 887 94 00",
+                "phone_number_href": "tel:+38628879400"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.172039,
+                    46.343928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Gorenjska cesta 18, 4240 Radovljica, ",
+                "email": "ue.radovljica@gov.si",
+                "email_href": "mailto:ue.radovljica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/radovljica/",
+                "map_link": "http://www.google.com/maps/place/46.343928,14.172039/@46.343928,14.172039,16z",
+                "name": "Upravna enota Radovljica",
+                "phone_number": "04 537 16 00",
+                "phone_number_href": "tel:+38645371600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.963501,
+                    46.541572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "\u010ce\u010dovje 12 a, 2390 Ravne na Koro\u0161kem, ",
+                "email": "ue.ravne@gov.si",
+                "email_href": "mailto:ue.ravne@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ravne-na-koroskem/",
+                "map_link": "http://www.google.com/maps/place/46.541572,14.963501/@46.541572,14.963501,16z",
+                "name": "Upravna enota Ravne na Koro\u0161kem",
+                "phone_number": "02 821 64 40",
+                "phone_number_href": "tel:+38628216440"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.725281,
+                    45.741086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Gorenjska cesta 9, 1310 Ribnica",
+                "email": "ue.ribnica@gov.si",
+                "email_href": "mailto:ue.ribnica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ribnica/",
+                "map_link": "http://www.google.com/maps/place/45.741086,14.725281/@45.741086,14.725281,16z",
+                "name": "Upravna enota Ribnica",
+                "phone_number": "01 837 27 10",
+                "phone_number_href": "tel:+38618372710"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.510179,
+                    46.538998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Kolodvorska ulica 9, 2342 Ru\u0161e",
+                "email": "ue.ruse@gov.si",
+                "email_href": "mailto:ue.ruse@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/ruse/",
+                "map_link": "http://www.google.com/maps/place/46.538998,15.510179/@46.538998,15.510179,16z",
+                "name": "Upravna enota Ru\u0161e",
+                "phone_number": "02 669 06 60",
+                "phone_number_href": "tel:+38626690660"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.315567,
+                    46.005687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Glavni trg 19/a, 8290 Sevnica, ",
+                "email": "ue.sevnica@gov.si",
+                "email_href": "mailto:ue.sevnica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/sevnica/",
+                "map_link": "http://www.google.com/maps/place/46.005687,15.315567/@46.005687,15.315567,16z",
+                "name": "Upravna enota Sevnica",
+                "phone_number": "07 816 38 70",
+                "phone_number_href": "tel:+38678163870"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.874381,
+                    45.709648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Partizanska c. 4, 6210 Se\u017eana, ",
+                "email": "ue.sezana@gov.si",
+                "email_href": "mailto:ue.sezana@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/sezana/",
+                "map_link": "http://www.google.com/maps/place/45.709648,13.874381/@45.709648,13.874381,16z",
+                "name": "Upravna enota Se\u017eana",
+                "phone_number": "05 731 27 00",
+                "phone_number_href": "tel:+38657312700"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.081375,
+                    46.510448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Me\u0161kova ulica 21, 2380 Slovenj Gradec, ",
+                "email": "ue.slgradec@gov.si",
+                "email_href": "mailto:ue.slgradec@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/slovenj-gradec/",
+                "map_link": "http://www.google.com/maps/place/46.510448,15.081375/@46.510448,15.081375,16z",
+                "name": "Upravna enota Slovenj Gradec",
+                "phone_number": "02 885 05 50",
+                "phone_number_href": "tel:+38628850550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.57556,
+                    46.391933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Kolodvorska ul. 10, 2310 Slovenska Bistrica",
+                "email": "ue.slbistrica@gov.si",
+                "email_href": "mailto:ue.slbistrica@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/slovenska-bistrica/",
+                "map_link": "http://www.google.com/maps/place/46.391933,15.575560/@46.391933,15.575560,16z",
+                "name": "Upravna enota Slovenska Bistrica",
+                "phone_number": "02 805 55 00",
+                "phone_number_href": "tel:+38628055500"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.422031,
+                    46.337133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Stari trg 29, 3210 Slovenske Konjice",
+                "email": "ue.slovenskekonjice@gov.si",
+                "email_href": "mailto:ue.slovenskekonjice@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/slovenske-konjice/",
+                "map_link": "http://www.google.com/maps/place/46.337133,15.422031/@46.337133,15.422031,16z",
+                "name": "Upravna enota Slovenske Konjice",
+                "phone_number": "03 758 01 10",
+                "phone_number_href": "tel:+38637580110"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.393826,
+                    46.216999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Mestni trg 10, 3230 \u0160entjur, ",
+                "email": "ue.sentjur@gov.si",
+                "email_href": "mailto:ue.sentjur@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/sentjur-pri-celju/",
+                "map_link": "http://www.google.com/maps/place/46.216999,15.393826/@46.216999,15.393826,16z",
+                "name": "Upravna enota \u0160entjur pri Celju",
+                "phone_number": "03 747 12 80",
+                "phone_number_href": "tel:+38637471280"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3066842,
+                    46.1639449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Poljanska cesta 2, 4220 \u0160kofja Loka, ",
+                "email": "ue.skofjaloka@gov.si",
+                "email_href": "mailto:ue.skofjaloka@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/skofja-loka/",
+                "map_link": "http://www.google.com/maps/place/46.1639449,14.3066842/@46.1639449,14.3066842,16z",
+                "name": "Upravna enota \u0160kofja Loka",
+                "phone_number": "04 511 23 60",
+                "phone_number_href": "tel:+38645112360"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.520956,
+                    46.229443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "A\u0161ker\u010dev trg 11, 3240 \u0160marje pri Jel\u0161ah, ",
+                "email": "ue.smarje@gov.si",
+                "email_href": "mailto:ue.smarje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/smarje-pri-jelsah/",
+                "map_link": "http://www.google.com/maps/place/46.229443,15.520956/@46.229443,15.520956,16z",
+                "name": "Upravna enota \u0160marje pri Jel\u0161ah",
+                "phone_number": "03 817 17 00",
+                "phone_number_href": "tel:+38638171700"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.731353,
+                    46.183085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Tumov drevored 4, 5220 Tolmin",
+                "email": "ue.tolmin@gov.si",
+                "email_href": "mailto:ue.tolmin@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/tolmin/",
+                "map_link": "http://www.google.com/maps/place/46.183085,13.731353/@46.183085,13.731353,16z",
+                "name": "Upravna enota Tolmin",
+                "phone_number": "05 380 08 00",
+                "phone_number_href": "tel:+38653800800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.054074,
+                    46.15626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Mestni trg 4, 1422 Trbovlje, ",
+                "email": "ue.trbovlje@gov.si",
+                "email_href": "mailto:ue.trbovlje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/trbovlje/",
+                "map_link": "http://www.google.com/maps/place/46.156260,15.054074/@46.156260,15.054074,16z",
+                "name": "Upravna enota Trbovlje",
+                "phone_number": "03 565 44 44",
+                "phone_number_href": "tel:+38635654444"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.007751,
+                    45.90801
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Goliev trg 5, 8210 Trebnje, ",
+                "email": "ue.trebnje@gov.si",
+                "email_href": "mailto:ue.trebnje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/trebnje/",
+                "map_link": "http://www.google.com/maps/place/45.908010,15.007751/@45.908010,15.007751,16z",
+                "name": "Upravna enota Trebnje",
+                "phone_number": "07 348 22 50",
+                "phone_number_href": "tel:+38673482250"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.308999,
+                    46.36354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Trg svobode 18, 4290 Tr\u017ei\u010d",
+                "email": "ue.trzic@gov.si",
+                "email_href": "mailto:ue.trzic@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/trzic/",
+                "map_link": "http://www.google.com/maps/place/46.363540,14.308999/@46.363540,14.308999,16z",
+                "name": "Upravna enota Tr\u017ei\u010d",
+                "phone_number": "04 595 21 00",
+                "phone_number_href": "tel:+38645952100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.113697,
+                    46.3592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Rudarska cesta 6a, 3320 Velenje",
+                "email": "ue.velenje@gov.si",
+                "email_href": "mailto:ue.velenje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/velenje/",
+                "map_link": "http://www.google.com/maps/place/46.359200,15.113697/@46.359200,15.113697,16z",
+                "name": "Upravna enota Velenje",
+                "phone_number": "03 899 57 00",
+                "phone_number_href": "tel:+38638995700"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.290467,
+                    45.974198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Stara Vrhnika 1d, 1360 Vrhnika, ",
+                "email": "ue.vrhnika@gov.si",
+                "email_href": "mailto:ue.vrhnika@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/vrhnika/",
+                "map_link": "http://www.google.com/maps/place/45.974198,14.290467/@45.974198,14.290467,16z",
+                "name": "Upravna enota Vrhnika",
+                "phone_number": "01 750 78 50",
+                "phone_number_href": "tel:+38617507850"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.003783,
+                    46.135545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Cesta 9. avgusta 5, 1410 Zagorje ob Savi, ",
+                "email": "ue.zagorje@gov.si",
+                "email_href": "mailto:ue.zagorje@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/zagorje-ob-savi/",
+                "map_link": "http://www.google.com/maps/place/46.135545,15.003783/@46.135545,15.003783,16z",
+                "name": "Upravna enota Zagorje ob Savi",
+                "phone_number": "03 566 08 11",
+                "phone_number_href": "tel:+38635660811"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.16418,
+                    46.2504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Ulica Savinjske \u010dete 5, 3310 \u017dalec",
+                "email": "ue.zalec@gov.si",
+                "email_href": "mailto:ue.zalec@gov.si",
+                "link": "https://www.gov.si/drzavni-organi/upravne-enote/zalec/",
+                "map_link": "http://www.google.com/maps/place/46.250400,15.164180/@46.250400,15.164180,16z",
+                "name": "Upravna enota \u017dalec",
+                "phone_number": "03 713 51 11",
+                "phone_number_href": "tel:+38637135111"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
