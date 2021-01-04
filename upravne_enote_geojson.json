@@ -9,7 +9,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Vipavska cesta 11b\n5270 Ajdov\u0161\u010dina",
+                "address": "Vipavska cesta 11b, 5270 Ajdov\u0161\u010dina",
                 "email": "ue.ajdovscina@gov.si",
                 "email_href": "mailto:ue.ajdovscina@gov.si",
                 "name": "Upravna enota Ajdov\u0161\u010dina",
@@ -27,7 +27,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta prvih borcev 24a\n8250 Bre\u017eice",
+                "address": "Cesta prvih borcev 24a, 8250 Bre\u017eice",
                 "email": "ue.brezice@gov.si",
                 "email_href": "mailto:ue.brezice@gov.si",
                 "name": "Upravna enota Bre\u017eice",
@@ -45,7 +45,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ljubljanska cesta 1\n3000 Celje\n",
+                "address": "Ljubljanska cesta 1, 3000 Celje, ",
                 "email": "ue.celje@gov.si",
                 "email_href": "mailto:ue.celje@gov.si",
                 "name": "Upravna enota Celje",
@@ -63,7 +63,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta 4. maja 24\n1380 Cerknica",
+                "address": "Cesta 4. maja 24, 1380 Cerknica",
                 "email": "ue.cerknica@gov.si",
                 "email_href": "mailto:ue.cerknica@gov.si",
                 "name": "Upravna enota Cerknica",
@@ -81,7 +81,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Zadru\u017ena cesta 16\n8340 \u010crnomelj",
+                "address": "Zadru\u017ena cesta 16, 8340 \u010crnomelj",
                 "email": "ue.crnomelj@gov.si",
                 "email_href": "mailto:ue.crnomelj@gov.si",
                 "name": "Upravna enota \u010crnomelj",
@@ -99,7 +99,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ljubljanska cesta 69\n1230 Dom\u017eale",
+                "address": "Ljubljanska cesta 69, 1230 Dom\u017eale",
                 "email": "ue.domzale@gov.si",
                 "email_href": "mailto:ue.domzale@gov.si",
                 "name": "Upravna enota Dom\u017eale",
@@ -117,7 +117,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Me\u017ea 10\n2370 Dravograd",
+                "address": "Me\u017ea 10, 2370 Dravograd",
                 "email": "ue.dravograd@gov.si",
                 "email_href": "mailto:ue.dravograd@gov.si",
                 "name": "Upravna enota Dravograd",
@@ -135,7 +135,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Partizanska cesta 13\n9250 Gornja Radgona",
+                "address": "Partizanska cesta 13, 9250 Gornja Radgona",
                 "email": "ue.goradgona@gov.si",
                 "email_href": "mailto:ue.goradgona@gov.si",
                 "name": "Upravna enota Gornja Radgona",
@@ -153,7 +153,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Taborska cesta 1\n1290 Grosuplje\n",
+                "address": "Taborska cesta 1, 1290 Grosuplje, ",
                 "email": "ue.grosuplje@gov.si",
                 "email_href": "mailto:ue.grosuplje@gov.si",
                 "name": "Upravna enota Grosuplje",
@@ -171,7 +171,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Pot Vitka Pavli\u010da 5\n1430 Hrastnik\n",
+                "address": "Pot Vitka Pavli\u010da 5, 1430 Hrastnik, ",
                 "email": "ue.hrastnik@gov.si",
                 "email_href": "mailto:ue.hrastnik@gov.si",
                 "name": "Upravna enota Hrastnik",
@@ -189,7 +189,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "\u0160tudentovska ulica 2\n5280 Idrija\n",
+                "address": "\u0160tudentovska ulica 2, 5280 Idrija, ",
                 "email": "ue.idrija@gov.si",
                 "email_href": "mailto:ue.idrija@gov.si",
                 "name": "Upravna enota Idrija",
@@ -207,7 +207,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Gregor\u010di\u010deva cesta 2\n6250 Ilirska Bistrica\n",
+                "address": "Gregor\u010di\u010deva cesta 2, 6250 Ilirska Bistrica, ",
                 "email": "ue.ilirskabistrica@gov.si",
                 "email_href": "mailto:ue.ilirskabistrica@gov.si",
                 "name": "Upravna enota Ilirska Bistrica",
@@ -225,7 +225,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta v Pregavor 3a\n6310 Izola\n",
+                "address": "Cesta v Pregavor 3a, 6310 Izola, ",
                 "email": "ue.izola@gov.si",
                 "email_href": "mailto:ue.izola@gov.si",
                 "name": "Upravna enota Izola",
@@ -243,7 +243,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta \u017eelezarjev 6a\n4270 Jesenice\n",
+                "address": "Cesta \u017eelezarjev 6a, 4270 Jesenice, ",
                 "email": "ue.jesenice@gov.si",
                 "email_href": "mailto:ue.jesenice@gov.si",
                 "name": "Upravna enota Jesenice",
@@ -261,7 +261,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Glavni trg 24\n1240 Kamnik\n",
+                "address": "Glavni trg 24, 1240 Kamnik, ",
                 "email": "ue.kamnik@gov.si",
                 "email_href": "mailto:ue.kamnik@gov.si",
                 "name": "Upravna enota Kamnik",
@@ -279,7 +279,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ljubljanska cesta 26\n1330 Ko\u010devje\n",
+                "address": "Ljubljanska cesta 26, 1330 Ko\u010devje, ",
                 "email": "ue.kocevje@gov.si",
                 "email_href": "mailto:ue.kocevje@gov.si",
                 "name": "Upravna enota Ko\u010devje",
@@ -297,7 +297,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Piranska cesta 2\n6000 Koper - Capodistria",
+                "address": "Piranska cesta 2, 6000 Koper - Capodistria",
                 "email": "ue.koper@gov.si",
                 "email_href": "mailto:ue.koper@gov.si",
                 "name": "Upravna enota Koper",
@@ -315,7 +315,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Slovenski trg 1\n4000 Kranj\n",
+                "address": "Slovenski trg 1, 4000 Kranj, ",
                 "email": "ue.kranj@gov.si",
                 "email_href": "mailto:ue.kranj@gov.si",
                 "name": "Upravna enota Kranj",
@@ -333,7 +333,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta kr\u0161kih \u017ertev 14\n8270 Kr\u0161ko\n",
+                "address": "Cesta kr\u0161kih \u017ertev 14, 8270 Kr\u0161ko, ",
                 "email": "ue.krsko@gov.si",
                 "email_href": "mailto:ue.krsko@gov.si",
                 "name": "Upravna enota Kr\u0161ko",
@@ -351,7 +351,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Mestna ulica 2\n3270 La\u0161ko\n",
+                "address": "Mestna ulica 2, 3270 La\u0161ko, ",
                 "email": "ue.lasko@gov.si",
                 "email_href": "mailto:ue.lasko@gov.si",
                 "name": "Upravna enota La\u0161ko",
@@ -369,7 +369,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Trg osvoboditve 7\n2230 Lenart v Slovenskih goricah",
+                "address": "Trg osvoboditve 7, 2230 Lenart v Slovenskih goricah",
                 "email": "ue.lenart@gov.si",
                 "email_href": "mailto:ue.lenart@gov.si",
                 "name": "Upravna enota Lenart",
@@ -387,7 +387,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Trg ljudske pravice 5\n9220 Lendava",
+                "address": "Trg ljudske pravice 5, 9220 Lendava",
                 "email": "ue.lendava@gov.si",
                 "email_href": "mailto:ue.lendava@gov.si",
                 "name": "Upravna enota Lendava",
@@ -405,7 +405,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Jerebova ulica 14\n1270 Litija",
+                "address": "Jerebova ulica 14, 1270 Litija",
                 "email": "ue.litija@gov.si",
                 "email_href": "mailto:ue.litija@gov.si",
                 "name": "Upravna enota Litija",
@@ -423,7 +423,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Linhartova cesta 13\n1000 Ljubljana",
+                "address": "Linhartova cesta 13, 1000 Ljubljana",
                 "email": "ue.ljubljana@gov.si",
                 "email_href": "mailto:ue.ljubljana@gov.si",
                 "name": "Upravna enota Ljubljana",
@@ -441,7 +441,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Vrazova ulica 1\n9240 Ljutomer",
+                "address": "Vrazova ulica 1, 9240 Ljutomer",
                 "email": "ue.ljutomer@gov.si",
                 "email_href": "mailto:ue.ljutomer@gov.si",
                 "name": "Upravna enota Ljutomer",
@@ -459,7 +459,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Tr\u017ea\u0161ka cesta 50A\n1370 Logatec",
+                "address": "Tr\u017ea\u0161ka cesta 50A, 1370 Logatec",
                 "email": "ue.logatec@gov.si",
                 "email_href": "mailto:ue.logatec@gov.si",
                 "name": "Upravna enota Logatec",
@@ -477,7 +477,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ul. heroja Staneta 1\n2501 Maribor",
+                "address": "Ul. heroja Staneta 1, 2501 Maribor",
                 "email": "ue.maribor@gov.si",
                 "email_href": "mailto:ue.maribor@gov.si",
                 "name": "Upravna enota Maribor",
@@ -495,7 +495,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Naselje Borisa Kidri\u010da 14/II\n8330 Metlika",
+                "address": "Naselje Borisa Kidri\u010da 14/II, 8330 Metlika",
                 "email": "ue.metlika@gov.si",
                 "email_href": "mailto:ue.metlika@gov.si",
                 "name": "Upravna enota Metlika",
@@ -513,7 +513,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "\u0160mihelska cesta 2\n3330 Mozirje",
+                "address": "\u0160mihelska cesta 2, 3330 Mozirje",
                 "email": "ue.mozirje@gov.si",
                 "email_href": "mailto:ue.mozirje@gov.si",
                 "name": "Upravna enota Mozirje",
@@ -531,7 +531,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Kardo\u0161eva 2\n9000 Murska Sobota",
+                "address": "Kardo\u0161eva 2, 9000 Murska Sobota",
                 "email": "ue.murskasobota@gov.si",
                 "email_href": "mailto:ue.murskasobota@gov.si",
                 "name": "Upravna enota Murska Sobota",
@@ -549,7 +549,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Trg Edvarda Kardelja 1\n5000 Nova Gorica",
+                "address": "Trg Edvarda Kardelja 1, 5000 Nova Gorica",
                 "email": "ue.novagorica@gov.si",
                 "email_href": "mailto:ue.novagorica@gov.si",
                 "name": "Upravna enota Nova Gorica",
@@ -567,7 +567,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Defranceschijeva ulica 1\n8000 Novo mesto\n",
+                "address": "Defranceschijeva ulica 1, 8000 Novo mesto, ",
                 "email": "ue.novomesto@gov.si",
                 "email_href": "mailto:ue.novomesto@gov.si",
                 "name": "Upravna enota Novo mesto",
@@ -585,7 +585,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ptujska cesta 6\n2270 Ormo\u017e",
+                "address": "Ptujska cesta 6, 2270 Ormo\u017e",
                 "email": "ue.ormoz@gov.si",
                 "email_href": "mailto:ue.ormoz@gov.si",
                 "name": "Upravna enota Ormo\u017e",
@@ -603,7 +603,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Pesnica pri Mariboru 43 a\n2211 Pesnica pri Mariboru",
+                "address": "Pesnica pri Mariboru 43 a, 2211 Pesnica pri Mariboru",
                 "email": "ue.pesnica@gov.si",
                 "email_href": "mailto:ue.pesnica@gov.si",
                 "name": "Upravna enota Pesnica",
@@ -621,7 +621,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Lucija, Obala 114a\n6320 Portoro\u017e",
+                "address": "Lucija, Obala 114a, 6320 Portoro\u017e",
                 "email": "ue.piran@gov.si",
                 "email_href": "mailto:ue.piran@gov.si",
                 "name": "Upravna enota Piran",
@@ -639,7 +639,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ljubljanska cesta 4\n6230 Postojna\n",
+                "address": "Ljubljanska cesta 4, 6230 Postojna, ",
                 "email": "ue.postojna@gov.si",
                 "email_href": "mailto:ue.postojna@gov.si",
                 "name": "Upravna enota Postojna",
@@ -657,7 +657,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Slom\u0161kova ulica 10\n2250 Ptuj\n",
+                "address": "Slom\u0161kova ulica 10, 2250 Ptuj, ",
                 "email": "ue.ptuj@gov.si",
                 "email_href": "mailto:ue.ptuj@gov.si",
                 "name": "Upravna enota Ptuj",
@@ -675,7 +675,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Mariborska c. 7\n2360 Radlje ob Dravi",
+                "address": "Mariborska c. 7, 2360 Radlje ob Dravi",
                 "email": "ue.radlje@gov.si",
                 "email_href": "mailto:ue.radlje@gov.si",
                 "name": "Upravna enota Radlje ob Dravi",
@@ -693,7 +693,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Gorenjska cesta 18\n4240 Radovljica\n",
+                "address": "Gorenjska cesta 18, 4240 Radovljica, ",
                 "email": "ue.radovljica@gov.si",
                 "email_href": "mailto:ue.radovljica@gov.si",
                 "name": "Upravna enota Radovljica",
@@ -711,7 +711,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "\u010ce\u010dovje 12 a\n2390 Ravne na Koro\u0161kem\n",
+                "address": "\u010ce\u010dovje 12 a, 2390 Ravne na Koro\u0161kem, ",
                 "email": "ue.ravne@gov.si",
                 "email_href": "mailto:ue.ravne@gov.si",
                 "name": "Upravna enota Ravne na Koro\u0161kem",
@@ -729,7 +729,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Gorenjska cesta 9\n1310 Ribnica",
+                "address": "Gorenjska cesta 9, 1310 Ribnica",
                 "email": "ue.ribnica@gov.si",
                 "email_href": "mailto:ue.ribnica@gov.si",
                 "name": "Upravna enota Ribnica",
@@ -747,7 +747,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Kolodvorska ulica 9\n2342 Ru\u0161e",
+                "address": "Kolodvorska ulica 9, 2342 Ru\u0161e",
                 "email": "ue.ruse@gov.si",
                 "email_href": "mailto:ue.ruse@gov.si",
                 "name": "Upravna enota Ru\u0161e",
@@ -765,7 +765,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Glavni trg 19/a\n8290 Sevnica\n",
+                "address": "Glavni trg 19/a, 8290 Sevnica, ",
                 "email": "ue.sevnica@gov.si",
                 "email_href": "mailto:ue.sevnica@gov.si",
                 "name": "Upravna enota Sevnica",
@@ -783,7 +783,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Partizanska c. 4\n6210 Se\u017eana\n",
+                "address": "Partizanska c. 4, 6210 Se\u017eana, ",
                 "email": "ue.sezana@gov.si",
                 "email_href": "mailto:ue.sezana@gov.si",
                 "name": "Upravna enota Se\u017eana",
@@ -801,7 +801,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Me\u0161kova ulica 21\n2380 Slovenj Gradec\n",
+                "address": "Me\u0161kova ulica 21, 2380 Slovenj Gradec, ",
                 "email": "ue.slgradec@gov.si",
                 "email_href": "mailto:ue.slgradec@gov.si",
                 "name": "Upravna enota Slovenj Gradec",
@@ -819,7 +819,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Kolodvorska ul. 10\n2310 Slovenska Bistrica",
+                "address": "Kolodvorska ul. 10, 2310 Slovenska Bistrica",
                 "email": "ue.slbistrica@gov.si",
                 "email_href": "mailto:ue.slbistrica@gov.si",
                 "name": "Upravna enota Slovenska Bistrica",
@@ -837,7 +837,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Stari trg 29\n3210 Slovenske Konjice",
+                "address": "Stari trg 29, 3210 Slovenske Konjice",
                 "email": "ue.slovenskekonjice@gov.si",
                 "email_href": "mailto:ue.slovenskekonjice@gov.si",
                 "name": "Upravna enota Slovenske Konjice",
@@ -855,7 +855,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Mestni trg 10\n3230 \u0160entjur\n",
+                "address": "Mestni trg 10, 3230 \u0160entjur, ",
                 "email": "ue.sentjur@gov.si",
                 "email_href": "mailto:ue.sentjur@gov.si",
                 "name": "Upravna enota \u0160entjur pri Celju",
@@ -873,7 +873,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Poljanska cesta 2\n4220 \u0160kofja Loka\n",
+                "address": "Poljanska cesta 2, 4220 \u0160kofja Loka, ",
                 "email": "ue.skofjaloka@gov.si",
                 "email_href": "mailto:ue.skofjaloka@gov.si",
                 "name": "Upravna enota \u0160kofja Loka",
@@ -891,7 +891,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "A\u0161ker\u010dev trg 11\n3240 \u0160marje pri Jel\u0161ah\n",
+                "address": "A\u0161ker\u010dev trg 11, 3240 \u0160marje pri Jel\u0161ah, ",
                 "email": "ue.smarje@gov.si",
                 "email_href": "mailto:ue.smarje@gov.si",
                 "name": "Upravna enota \u0160marje pri Jel\u0161ah",
@@ -909,7 +909,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Tumov drevored 4\n5220 Tolmin",
+                "address": "Tumov drevored 4, 5220 Tolmin",
                 "email": "ue.tolmin@gov.si",
                 "email_href": "mailto:ue.tolmin@gov.si",
                 "name": "Upravna enota Tolmin",
@@ -927,7 +927,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Mestni trg 4\n1422 Trbovlje\n",
+                "address": "Mestni trg 4, 1422 Trbovlje, ",
                 "email": "ue.trbovlje@gov.si",
                 "email_href": "mailto:ue.trbovlje@gov.si",
                 "name": "Upravna enota Trbovlje",
@@ -945,7 +945,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Goliev trg 5\n8210 Trebnje\n",
+                "address": "Goliev trg 5, 8210 Trebnje, ",
                 "email": "ue.trebnje@gov.si",
                 "email_href": "mailto:ue.trebnje@gov.si",
                 "name": "Upravna enota Trebnje",
@@ -963,7 +963,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Trg svobode 18\n4290 Tr\u017ei\u010d",
+                "address": "Trg svobode 18, 4290 Tr\u017ei\u010d",
                 "email": "ue.trzic@gov.si",
                 "email_href": "mailto:ue.trzic@gov.si",
                 "name": "Upravna enota Tr\u017ei\u010d",
@@ -981,7 +981,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Rudarska cesta 6a\n3320 Velenje",
+                "address": "Rudarska cesta 6a, 3320 Velenje",
                 "email": "ue.velenje@gov.si",
                 "email_href": "mailto:ue.velenje@gov.si",
                 "name": "Upravna enota Velenje",
@@ -999,7 +999,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Stara Vrhnika 1d\n1360 Vrhnika\n",
+                "address": "Stara Vrhnika 1d, 1360 Vrhnika, ",
                 "email": "ue.vrhnika@gov.si",
                 "email_href": "mailto:ue.vrhnika@gov.si",
                 "name": "Upravna enota Vrhnika",
@@ -1017,7 +1017,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Cesta 9. avgusta 5\n1410 Zagorje ob Savi\n",
+                "address": "Cesta 9. avgusta 5, 1410 Zagorje ob Savi, ",
                 "email": "ue.zagorje@gov.si",
                 "email_href": "mailto:ue.zagorje@gov.si",
                 "name": "Upravna enota Zagorje ob Savi",
@@ -1035,7 +1035,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address": "Ulica Savinjske \u010dete 5\n3310 \u017dalec",
+                "address": "Ulica Savinjske \u010dete 5, 3310 \u017dalec",
                 "email": "ue.zalec@gov.si",
                 "email_href": "mailto:ue.zalec@gov.si",
                 "name": "Upravna enota \u017dalec",
